@@ -1,0 +1,21 @@
+[submodule "giscube-admin"]
+	path = giscube-admin
+	url = https://github.com/giscube/giscube-admin-ansible.git
+[submodule "giscube-applications-server"]
+	path = giscube-applications-server
+	url = https://github.com/giscube/giscube-applications-server-ansible.git
+[submodule "giscube-base-server"]
+	path = giscube-base-server
+	url = https://github.com/giscube/giscube-base-server-ansible.git
+[submodule "giscube-database-server"]
+	path = giscube-database-server
+	url = https://github.com/giscube/giscube-database-server-ansible.git
+[submodule "giscube-gis-server"]
+	path = giscube-gis-server
+	url = https://github.com/giscube/giscube-gis-server-ansible.git
+[submodule "giscube-image-server"]
+	path = giscube-image-server
+	url = https://github.com/giscube/giscube-image-server-ansible.git
+[submodule "giscube-uwsgi-app"]
+	path = giscube-uwsgi-app
+	url = https://github.com/giscube/giscube-uwsgi-app-ansible.git
